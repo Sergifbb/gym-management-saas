@@ -95,7 +95,10 @@ La separación de datos y los permisos también se controlan a nivel de base de 
 
 ## 📸 Capturas
 
-Próximamente se añadirán capturas de la aplicación y de sus principales funcionalidades.
+
+Vista general de la plataforma y algunas de sus principales funcionalidades:
+
+![Vista general de Gym Management SaaS](gym-management-preview.png.png).
 
 ---
 
